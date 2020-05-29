@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/pytorch_android_torchvision/src/androidTest/java"/>
+	<classpathentry kind="src" path="android/pytorch_android_torchvision/src/main/java"/>
+	<classpathentry kind="src" path="android/pytorch_android/src/androidTest/java"/>
+	<classpathentry kind="src" path="android/pytorch_android/src/main/java"/>
+	<classpathentry kind="src" path="android/test_app/app/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
