@@ -1,0 +1,9 @@
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\bin\Debug\netcoreapp1.1\EmptyConsoleApp.deps.json
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\bin\Debug\netcoreapp1.1\EmptyConsoleApp.runtimeconfig.json
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\bin\Debug\netcoreapp1.1\EmptyConsoleApp.runtimeconfig.dev.json
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\bin\Debug\netcoreapp1.1\EmptyConsoleApp.dll
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\bin\Debug\netcoreapp1.1\EmptyConsoleApp.pdb
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\obj\Debug\netcoreapp1.1\EmptyConsoleApp.csprojResolveAssemblyReference.cache
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\obj\Debug\netcoreapp1.1\EmptyConsoleApp.AssemblyInfo.cs
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\obj\Debug\netcoreapp1.1\EmptyConsoleApp.dll
+F:\_Lucka\EmptyConsoleApp\EmptyConsoleApp\obj\Debug\netcoreapp1.1\EmptyConsoleApp.pdb
